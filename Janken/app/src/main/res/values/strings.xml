@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">じゃんけん</string>
+    <string name="tv_janken">じゃん・けん・・・</string>
+    <string name="bt_back">戻る</string>
+</resources>
